@@ -1,0 +1,4 @@
+SocketSniff
+===========
+
+Multiplatform socket instrumentation
