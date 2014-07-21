@@ -1,0 +1,5 @@
+repo: ad9700afb9c00db5a0fa2e1b186d22bb6ef4de9a
+node: ac7501fd112a18b19564c66d39528e6ddf97285d
+branch: release
+latesttag: null
+latesttagdistance: 377
